@@ -12,6 +12,9 @@ https://github.com/Kaiziron/glacierctf2023_solution
 ### Paradigm CTF 2023
 Not yet finished
 
+### QuillCTF Dubai
+Not yet finished
+
 ### Sekai CTF 2023
 https://github.com/Kaiziron/sekai-ctf-2023-writeup
 
