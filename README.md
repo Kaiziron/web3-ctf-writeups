@@ -1,5 +1,8 @@
 # Web3/Blockchain CTF writeups/solutions
 
+### Real World CTF 6th
+https://github.com/Kaiziron/real-world-ctf-6th-writeups/
+
 ### Blaz CTF 2023
 https://github.com/Kaiziron/blaz_ctf_2023_solutions
 
