@@ -1,5 +1,8 @@
 # Web3/Blockchain CTF writeups/solutions
 
+### HITCON CTF 2024 Quals
+https://github.com/Kaiziron/hitcon-ctf-2024-quals-writeup
+
 ### Real World CTF 6th
 https://github.com/Kaiziron/real-world-ctf-6th-writeups/
 
